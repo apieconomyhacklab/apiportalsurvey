@@ -3,13 +3,13 @@ brand:
 menu-string: Menu
 
 nav:
-  - title: Services
+  - title: Details
     url: '#services'
   - title: Portfolio
     url: '#portfolio'
-  - title: About
+  - title: Timeline
     url: '#about'
-  - title: Team
+  - title: Researcher
     url: '#team'
   - title: Contact
     url: '#contact'
