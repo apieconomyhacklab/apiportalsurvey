@@ -4,7 +4,7 @@ intro:
   btn: Tell Me More
 
 services:
-  heading: Services
+  heading: Target audience
   subheading: Lorem ipsum dolor sit amet consectetur.
   service:
     - icon: fa fa-shopping-cart
@@ -46,7 +46,7 @@ about:
   end2: Of Our
   end3: Story!
 
-team:
+researcher:
   heading: Researcher
   subheading: Survey is academic and follows good academic practices.
   members:
