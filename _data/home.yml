@@ -46,7 +46,7 @@ team:
   members:
     - name: Jarkko Moilanen
       role: Researcher, API Economist
-      img: img/team/1.jpg
+      img: img/team/1.png
       social-buttons:
         - icon: fa fa-twitter
           url: "#" 
