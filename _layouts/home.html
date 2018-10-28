@@ -128,6 +128,7 @@ layout: default
           </div>
         </div>
         <div class="row">
+	<center>
           {%- for member in site.data.home.team.members -%}
           {% assign ws = '' %}
           <div class="col-sm-4">
@@ -147,6 +148,7 @@ layout: default
               {% assign ws = '' %}
               </ul>
             </div>
+	  </center>
           </div>
           {%- endfor -%}
         {% assign ws = '' %}
