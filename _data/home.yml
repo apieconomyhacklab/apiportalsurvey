@@ -20,21 +20,21 @@ about:
   subheading: Lorem ipsum dolor sit amet consectetur.
   timeline:
     - image: img/about/1.jpg
-      date: 2009-2011
-      title: Our Humble Beginnings
-      text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!
+      date: July - Aug 2018
+      title: Background research 
+      text: After the summer I went through previous research about developer portals. I also visited plenty of portals and discussed the topic with my developer network members.  
     - image: img/about/2.jpg
-      date: March 2011
-      title: An Agency is Born
-      text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!
+      date: Sept - Oct 2018
+      title: Prepare and test survey 
+      text: In September I crafted the survey for most parts. In October survey was tested by a developer (API Consumer) to verify that it makes sense. 
     - image: img/about/3.jpg
-      date: December 2012
-      title: Transition to Full Service
-      text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!
+      date: Nov 1st - 15th 2018
+      title: Survey open!
+      text: Survey will be open for 2 weeks
     - image: img/about/4.jpg
-      date: July 2014
-      title: Phase Two Expansion
-      text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!
+      date: Nov - Dec 2018
+      title: Analysis and publication
+      text: The results are analyzed and blog post will be written in Medium.com. Survey data is uploaded to Github.  
 
   end1: Be Part
   end2: Of Our
