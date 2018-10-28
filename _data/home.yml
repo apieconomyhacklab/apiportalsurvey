@@ -5,7 +5,7 @@ intro:
 
 services:
   heading: Target audience
-  subheading: Survey is directed at developers who use developer portals.
+  subheading: Survey is directed at developers who use developer portals. Survey is implemented with LimeSurvey and all responses are anonymised. Survey is open until Nov 15th 2018. 
   service:
     - icon: fa fa-shopping-cart
       heading: API Consumer
