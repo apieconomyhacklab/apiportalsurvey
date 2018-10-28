@@ -5,17 +5,11 @@ intro:
 
 services:
   heading: Target audience
-  subheading: Lorem ipsum dolor sit amet consectetur.
+  subheading: Survey is directed at developers who use developer portals.
   service:
     - icon: fa fa-shopping-cart
-      heading: E-Commerce
-      text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.
-    - icon: fa fa-laptop
-      heading: Responsive Design
-      text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.
-    - icon: fa fa-lock
-      heading: Web Security
-      text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.
+      heading: API Consumer
+      text: If you use APIs in developing apps, this is a survey for you!
 
 portfolio:
   heading: Portfolio
