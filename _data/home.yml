@@ -46,7 +46,7 @@ about:
   end2: Of Our
   end3: Story!
 
-researcher:
+team:
   heading: Researcher
   subheading: Survey is academic and follows good academic practices.
   members:
@@ -61,7 +61,8 @@ researcher:
         - icon: fa fa-linkedin
           url: "#"
 
-  text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde.
+  text: Survey is conducted by Jarkko Moilanen, PhD (peerproduction driven ecosystems). Jarkko has conducted several surveys among hacker and 3D printing communities. For the past 6 years Jarkko has focused on API Economy and developer eXperience (DX) is his passion. Jarkko is also igniter and author of API Economy 101 book in Finnish, founder of APIOps (term coined by Jarkko 2015) and API Finland communities, organizer of APIdays Nordic 2016. 
+
 
 clients:
   - img: img/logos/envato.jpg
