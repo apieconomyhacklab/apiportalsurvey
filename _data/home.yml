@@ -19,19 +19,19 @@ about:
   heading: About
   subheading: Lorem ipsum dolor sit amet consectetur.
   timeline:
-    - image: img/about/1.jpg
+    - image: img/about/11.jpg
       date: July - Aug 2018
       title: Background research 
       text: After the summer I went through previous research about developer portals. I also visited plenty of portals and discussed the topic with my developer network members.  
-    - image: img/about/2.jpg
+    - image: img/about/21.jpg
       date: Sept - Oct 2018
       title: Prepare and test survey 
       text: In September I crafted the survey for most parts. In October survey was tested by a developer (API Consumer) to verify that it makes sense. 
-    - image: img/about/3.jpg
+    - image: img/about/33.jpg
       date: Nov 1st - 20th 2018
       title: Survey open!
       text: Survey will be open for 20 days. 
-    - image: img/about/4.jpg
+    - image: img/about/44.jpg
       date: Nov - Dec 2018
       title: Analysis and publication
       text: The results are analyzed and blog post will be written in Medium.com. Survey data is uploaded to Github.  
