@@ -63,6 +63,7 @@ clients:
     url: "#"
   - img: img/logos/github.png 
     url: "#"
-  - img: img/logos/upcloud.png
+  - img: img/logos/up.png
     url: "#"
-
+  - img: img/logos/up.png
+    url: "#"
