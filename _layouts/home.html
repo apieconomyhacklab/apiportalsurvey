@@ -71,6 +71,26 @@ layout: default
       </div>
     </section>
 
+    <!-- Clients -->
+    <section class="py-5">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-12 text-center">
+            <h2 class="section-heading text-uppercase">Research enablers</h2>
+          </div>
+        <div class="row">
+          {%- for client in site.data.home.clients -%}
+          {% assign ws = '' %}
+          <div class="col-md-3 col-sm-6">
+            <a href="{{ client.url }}">
+              <img class="img-fluid d-block mx-auto" src="{{ assets_path }}{{ client.img }}" alt="">
+            </a>
+          </div>
+          {%-  endfor -%}
+        {% assign ws = '' %}
+        </div>
+      </div>
+    </section>
     <!-- Portfolio Grid 
     <section class="bg-light" id="portfolio">
       <div class="container">
@@ -191,26 +211,6 @@ layout: default
       </div>
     </section>
 
-    <!-- Clients -->
-    <section class="py-5">
-      <div class="container">
-        <div class="row">
-          <div class="col-lg-12 text-center">
-            <h2 class="section-heading text-uppercase">Research enablers</h2>
-          </div>
-        <div class="row">
-          {%- for client in site.data.home.clients -%}
-          {% assign ws = '' %}
-          <div class="col-md-3 col-sm-6">
-            <a href="{{ client.url }}">
-              <img class="img-fluid d-block mx-auto" src="{{ assets_path }}{{ client.img }}" alt="">
-            </a>
-          </div>
-          {%-  endfor -%}
-        {% assign ws = '' %}
-        </div>
-      </div>
-    </section>
 
     <!-- Contact -->
     <section class="contact" id="contact">
