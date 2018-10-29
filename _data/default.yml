@@ -5,8 +5,6 @@ menu-string: Menu
 nav:
   - title: Details
     url: '#details'
-  - title: Portfolio
-    url: '#portfolio'
   - title: Timeline
     url: '#timeline'
   - title: Researcher
