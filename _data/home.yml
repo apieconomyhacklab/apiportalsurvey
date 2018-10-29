@@ -59,12 +59,10 @@ team:
 
 
 clients:
-  - img: img/logos/envato.jpg
+  - img: img/logos/lime.png
     url: "#"
-  - img: img/logos/designmodo.jpg
+  - img: img/logos/github.png 
     url: "#"
-  - img: img/logos/themeforest.jpg
-    url: "#"
-  - img: img/logos/creative-market.jpg   
+  - img: img/logos/upcloud.png
     url: "#"
 
