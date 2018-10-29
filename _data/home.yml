@@ -45,7 +45,7 @@ team:
   subheading: Survey is academic and follows good academic practices.
   members:
     - name: Jarkko Moilanen
-      role: Researcher, API Economist
+      role: Researcher, API Economist, Author of API Economy 101 -book
       img: img/team/1.png
       social-buttons:
         - icon: fa fa-twitter
